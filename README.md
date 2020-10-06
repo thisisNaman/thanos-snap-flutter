@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Here is the basic UI of the app,
 ## Click on "Kill him" and see the mad titan fade away!!!!😃
 
-![ui](snap.jpg)
+![demo_video](snap.mp4)

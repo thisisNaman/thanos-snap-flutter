@@ -1,4 +1,4 @@
-# thanos_snap
+# Thanos_Snap <img src="https://github.com/Coder-Bhai/thanos-snap-flutter/blob/master/snap.gif" height="60">
 
 A new Flutter project.
 
@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Here is the basic UI of the app,
-## Click on "Kill him" and see the mad titan fade away!!!!😃
+## Here is the demo of the app,
+## Click on "Kill him" button to snap away thanos.
 
-![demo_video](snap.mp4)
+<img src="https://github.com/Coder-Bhai/thanos-snap-flutter/blob/master/snap_demo.gif">
